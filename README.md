@@ -94,9 +94,24 @@ This project analyzes how social media usage affects mental health using a datas
 
 
 # Recommendations
+- **Limit Daily Social Media Use**: Encourage individuals to set specific time limits on social media to prevent overuse and reduce stress or anxiety.
 
+- **Promote Mindful Engagement**: Suggest that users engage with content consciously, focusing on educational, uplifting, or entertaining content rather than mindless scrolling.
+
+- **Encourage Offline Activities**: Advocate for hobbies, exercise, and face-to-face interactions to balance online and offline life.
+
+- **Implement Support Systems**: Provide access to counseling, peer support groups, or digital wellness resources to help individuals manage social media related mental health challenges.
 
 # Conclusion
+The analysis provides important insights into the mental health patterns of participants and how factors such as stress levels, lifestyle habits, social media use, and personal responsibilities influence their well-being. The findings show that mental health challenges are present across different groups, with some categories experiencing higher levels of stress or emotional strain than others. While participants engage with social media for entertainment and connection, excessive use appears to negatively affect sleep quality and overall balance.
 
+Overall, the dataset highlights the need for increased mental health awareness, healthier digital habits, targeted support for vulnerable groups, and improved access to mental health resources. These insights can guide future interventions aimed at promoting emotional well-being and improving quality of life for all participants.
 
 # Future Improvements 
+- **Increase Sample Diversity**: Include participants from various age groups, professions, and regions to enhance the generalizability of findings.
+
+- **Longitudinal Tracking**: Monitor participants over time to better understand how social media habits impact mental health.
+
+- **Use Objective Data**: Incorporate app usage stats, screen time, or sleep data to complement self-reported information.
+
+- **Test Interventions**: Implement strategies like digital detoxes or time-limiting tools and measure their effects on mental well-being.
